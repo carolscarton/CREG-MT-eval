@@ -1,15 +1,8 @@
 # CREG-MT-eval
-
----------------------------------------------------------------------------
 Corpus of Reading Comprehension Exercises in German (CREG)
-Machine Translation Evaluation version (CREG-mt-eval)
+Machine Translation Evaluation version (CREG-MT-eval)
 
-Authors:
-Carolina Scarton - c.scarton at sheffield ac uk
-Lucia Specia - l.specia at sheffield ac uk
----------------------------------------------------------------------------
-
-CREG-mt-eval is a version of CREG corpus machine translated by four different 
+CREG-MT-eval is a version of CREG corpus machine translated by four different 
 MT systems. The systems are:
 - MOSES: a baseline SMT system (http://www.statmt.org/moses/?n=moses.baseline)
 - Google: https://translate.google.co.uk/
