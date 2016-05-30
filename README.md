@@ -30,7 +30,7 @@ In Proceedings of the 10th Language Resources and Evaluation Conference. Portoro
 CREG is a corpus built by researchers from the [University of Tübingen](http://www.uni-tuebingen.de). It is composed by documents of different genre and size and each document has reading comprehension tests associated to it. Target answers for the questions are also provided.
 Different versions of this corpus have been made available and they also work on a Corpus of Reading Comprehesion in English.
 
-(Corpus webpage)(http://www.uni-tuebingen.de/en/research/core-research/collaborative-research-centers/sfb-833/section-a-context/a4-meurers/software-resources-and-corpora.html)
+[Corpus webpage](http://www.uni-tuebingen.de/en/research/core-research/collaborative-research-centers/sfb-833/section-a-context/a4-meurers/software-resources-and-corpora.html)
 
 References:
 
